@@ -5,3 +5,7 @@
 
 ` python ETTodaynews.py`
 ^Wait to be updated...^
+
+##### Here is Ubuntu
+
+132
